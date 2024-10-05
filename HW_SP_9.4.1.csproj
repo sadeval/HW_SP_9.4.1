@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>HW_SP_9._4._1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="HW_SP_9.4">
+      <HintPath>..\HW_SP_9.4\bin\Debug\net8.0\HW_SP_9.4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
